@@ -1,0 +1,20 @@
+{
+    "partitions": [
+        {
+            "filesystem_type": "FAT",
+            "label": "System",
+            "mkfs_options": "",
+            "partition_size_nominal": 512,
+            "uncompressed_tarball_size": 120,
+            "want_maximised": false
+        },
+        {
+            "filesystem_type": "ext4",
+            "label": "Storage",
+            "mkfs_options": "",
+            "partition_size_nominal": 19480,
+            "uncompressed_tarball_size": 10,
+            "want_maximised": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "LibreELEC_RPi4",
+  "version": "10.0.0",
+  "release_date": "2021-08-11",
+  "kernel": "86729e78125d4f3d203457940feee8bc97b11f6c",
+  "description": "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+  "username": "root",
+  "password": "libreelec",
+  "supported_models": ["Pi 4"]
+}
