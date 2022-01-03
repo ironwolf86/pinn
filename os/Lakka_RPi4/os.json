@@ -1,0 +1,14 @@
+{
+  "name": "Lakka_RPi4",
+  "version": "3.6",
+  "release_date": "2021-11-13",
+  "kernel": "1.20211029",
+  "description": "Lakka is a fast and user-friendly retroarch turnkey distribution",
+  "username": "root",
+  "password": "root",
+  "supported_models": ["Pi 4"],
+  "url": "https://www.lakka.tv/",
+  "group": "Games",
+  "supports_backup": true,
+  "download_size": 487666736
+}
