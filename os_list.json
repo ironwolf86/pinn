@@ -73,7 +73,7 @@
         },
         {
             "description": "The retro-gaming OS! Turn your Raspberry Pi into an all-in-one and plug-n-play retro-gaming console, supporting 100+ gaming systems!",
-            "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
+            "icon": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/noobs/recalbox.png",
             "marketing_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/noobs/marketing.tar",
             "nominal_size": 20000,
             "os_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/noobs/os.json",
