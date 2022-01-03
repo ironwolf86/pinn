@@ -74,11 +74,11 @@
         {
             "description": "The retro-gaming OS! Turn your Raspberry Pi into an all-in-one and plug-n-play retro-gaming console, supporting 100+ gaming systems!",
             "icon": "https://upgrade.recalbox.com/latest/noobs/recalbox.png",
-            "marketing_info": "https://upgrade.recalbox.com/latest/noobs/marketing.tar",
+            "marketing_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/noobs/marketing.tar",
             "nominal_size": 20000,
-            "os_info": "https://upgrade.recalbox.com/latest/noobs/os.json",
+            "os_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/noobs/os.json",
             "os_name": "Recalbox - Pi4",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=recalbox-pi4&s=20000",
+            "partitions_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/noobs/partitions.json",
             "release_date": "2021-12-03",
             "supported_models": [
                 "Pi 4"
@@ -89,13 +89,13 @@
             "description": "A port of Debian with the Raspberry Pi Desktop",
             "download_size": 801462256,
             "feature_level": 35120124,
-            "icon": "http://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
-            "marketing_info": "http://downloads.raspberrypi.org/raspios_armhf/marketing.tar",
+            "icon": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
+            "marketing_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/raspios_armhf/marketing.tar",
             "nominal_size": 32000,
-            "os_info": "http://downloads.raspberrypi.org/raspios_armhf/os.json",
+            "os_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/raspios_armhf/os.json",
             "os_name": "Raspberry Pi OS (32-bit)",
-            "partition_setup": "http://downloads.raspberrypi.org/raspios_armhf/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=raspberrypios32-bit&s=32000",
+            "partition_setup": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/raspios_armhf/partition_setup.sh",
+            "partitions_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/raspios_armhf/partitions.json",
             "release_date": "2021-10-30",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
