@@ -1,0 +1,22 @@
+{
+    "partitions": [
+        {
+            "filesystem_type": "FAT",
+            "label": "Kali32boot",
+            "mkfs_options": "-F 32",
+            "partition_size_nominal": 140,
+            "sha256sum": "03cf3a56d8862aadfdbe24b8f56cb80623f34cc14ecbe4581ee849010ee51834",
+            "uncompressed_tarball_size": 69,
+            "want_maximised": false
+        },
+        {
+            "filesystem_type": "ext4",
+            "label": "Kali32root",
+            "mkfs_options": "-O ^huge_file",
+            "partition_size_nominal": 19852,
+            "sha256sum": "4ad109f7f2f1a1b87f0ea5900a3b711d9df10ad5cb97bde63e2a68e6593f9956",
+            "uncompressed_tarball_size": 7668,
+            "want_maximised": true
+        }
+    ]
+}
