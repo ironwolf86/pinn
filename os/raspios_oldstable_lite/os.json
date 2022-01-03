@@ -1,0 +1,22 @@
+{
+    "name":	   "raspios_oldstable_lite",
+    "description": "A port of Debian Buster oldstable with no desktop environment",
+    "release_date": "2021-12-02",
+    "supported_models": [
+        "Pi Model",
+        "Pi 2",
+        "Pi Zero",
+        "Pi 3",
+        "Pi Compute Module 3",
+        "Pi 4"
+    ],
+    "sha512sum" : "3367a6aeeab3998e2ec393e4538b0a8078179672bfd58ea62dfd28bc351d8b9ad0b1c9ed09ca24e987d33d7a10afd0eba77a86f67c64a17baa9e4a0455463cf5",
+    "version": "buster",
+    "kernel": "5.10.63",
+    "supports_backup": true,
+    "url": "http://www.raspbian.org/",
+    "group": "Legacy",
+    "username": "pi",
+    "password": "raspberry"
+}
+
