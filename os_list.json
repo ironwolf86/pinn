@@ -302,33 +302,33 @@
             "download_size": 467365718,
             "feature_level": 0,
             "group": "Minimal",
-            "icon": "http://downloads.sourceforge.net/project/pinn/os/Arch4/Arch4.png",
-            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/Arch4/marketing.tar",
+            "icon": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/Arch4/Arch4.png",
+            "marketing_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/Arch4/marketing.tar",
             "nominal_size": 20000,
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/Arch4/os.json",
+            "os_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/Arch4/os.json",
             "os_name": "Arch4",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Arch4/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=arch4&s=20000",
+            "partition_setup": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/Arch4/partition_setup.sh",
+            "partitions_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/Arch4/partitions.json",
             "release_date": "2020-03-03",
             "supported_models": [
                 "Pi 4"
             ],
             "supports_backup": "update",
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os/Arch4/boot_arch.tar.xz",
+                "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/Arch4/boot_arch.tar.xz",
                 "http://archlinuxarm.org/os/ArchLinuxARM-rpi-4-latest.tar.gz"
             ],
             "url": "http://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-4"
         },
         {
             "description": "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
-            "icon": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/LibreELEC_RPi4.png",
-            "marketing_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/marketing.tar",
+            "icon": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/LibreELEC_RPi4/LibreELEC_RPi4.png",
+            "marketing_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/LibreELEC_RPi4/marketing.tar",
             "nominal_size": 20000,
-            "os_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/os.json",
+            "os_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/LibreELEC_RPi4/os.json",
             "os_name": "LibreELEC_RPi4",
-            "partition_setup": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=libreelec_rpi4&s=20000",
+            "partition_setup": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/LibreELEC_RPi4/partition_setup.sh",
+            "partitions_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/LibreELEC_RPi4/partitions.json",
             "release_date": "2021-08-11",
             "supported_hex_revisions": "",
             "supported_models": [
@@ -344,11 +344,11 @@
             "description": "Adds an empty 512MB ext4 format partition to the partition layout.",
             "icon": "http://downloads.raspberrypi.org/data_partition/Data_Partition.png",
             "nominal_size": 616185,
-            "os_info": "http://downloads.raspberrypi.org/data_partition/os.json",
+            "os_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/data_partition/os.json",
             "os_name": "Data Partition",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=datapartition&s=616185",
+            "partitions_info": "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/data_partition/partitions.json",
             "tarballs": [
-                "http://downloads.raspberrypi.org/data_partition/data.tar.xz"
+                "https://raw.githubusercontent.com/ironwolf86/pinn/main/os/data_partition/data.tar.xz"
             ]
         }
     ]
