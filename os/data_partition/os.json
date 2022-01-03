@@ -1,6 +1,0 @@
-{
-  "name": "Data Partition",
-  "description": "Adds an empty 512MB ext4 format partition to the partition layout.",
-  "slice_exclude": true,
-  "bootable": false
-}
