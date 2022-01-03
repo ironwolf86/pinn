@@ -1,0 +1,22 @@
+{
+    "partitions": [
+        {
+            "filesystem_type": "FAT",
+            "label": "boot",
+            "mkfs_options": "-F 32",
+            "partition_size_nominal": 253,
+            "sha512sum": "ecd231fe0d61b89e15d2ac9abc90dd8fee007a6e208a4606c98361f7951c35111eb94fe188560b6e0dfb70fbaf39c1e325e9cb64ca90d9cbc246d75baa397abc",
+            "uncompressed_tarball_size": 48,
+            "want_maximised": false
+        },
+        {
+            "filesystem_type": "ext4",
+            "label": "twister",
+            "mkfs_options": "-O ^huge_file",
+            "partition_size_nominal": 19739,
+            "sha512sum": "2259ca7775d8558d3afaa3b6c37b1b31d6c5b1c6e57ec6f2297305cd40e289b66ae85b50dc9178f15f86d267c76d960d4cc3162a3c3c82a16e4741ce6e286537",
+            "uncompressed_tarball_size": 6979,
+            "want_maximised": true
+        }
+    ]
+}

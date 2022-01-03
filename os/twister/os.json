@@ -1,0 +1,19 @@
+{
+    "name":	   "twister",
+    "description": "A themed Raspberry Pi OS Desktop merged with gaming v2.1.2",
+    "release_date": "2021-06-22",
+    "supported_models": [
+        "Pi 3",
+        "Pi Zero 2",
+        "Pi Compute Module 3",
+        "Pi 4"
+    ],
+    "sha512sum" : "3367a6aeeab3998e2ec393e4538b0a8078179672bfd58ea62dfd28bc351d8b9ad0b1c9ed09ca24e987d33d7a10afd0eba77a86f67c64a17baa9e4a0455463cf5",
+    "version": "2.1.2",
+    "kernel": "5.10.17",
+    "supports_backup": true,
+    "url": "https://twisteros.com/",
+    "group": "General",
+    "username": "pi",
+    "password": "raspberry"
+}
