@@ -1,0 +1,12 @@
+{
+    "partitions": [
+        {
+            "filesystem_type": "ext4",
+            "label": "data",
+            "mkfs_options": "",
+            "partition_size_nominal": 616181,
+            "uncompressed_tarball_size": 1,
+            "want_maximised": false
+        }
+    ]
+}
