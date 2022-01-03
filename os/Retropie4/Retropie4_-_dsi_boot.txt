@@ -1,0 +1,2 @@
+dsi/config.hdmi / 0777 root root
+dsi/config.dsi / 0777 root root

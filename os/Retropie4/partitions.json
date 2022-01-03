@@ -1,0 +1,21 @@
+{
+    "partitions": [
+        {
+            "filesystem_type": "FAT",
+            "label": "boot",
+            "partition_size_nominal": 256,
+            "sha512sum": "363555d83f07270fca4c5abb9840bfaecb3e0054a593ef0eec11cf6ab26a13cd409c151c65976b837ab97635ef7d8bf2f66de512cfc51125085eb9075c2c2d61",
+            "uncompressed_tarball_size": 55,
+            "want_maximised": false
+        },
+        {
+            "filesystem_type": "ext4",
+            "label": "retropie",
+            "mkfs_options": "-O ^huge_file",
+            "partition_size_nominal": 31736,
+            "sha512sum": "eaf87085ab65962657d75458e17ff138ac278645e89c61121f5316e16c57774638f62dfa1587a095a36d171df4654c18da060646714749c04ba7c452082ae7c5",
+            "uncompressed_tarball_size": 2427,
+            "want_maximised": true
+        }
+    ]
+}

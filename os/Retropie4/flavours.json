@@ -1,0 +1,12 @@
+{
+  "flavours": [
+    {
+      "name": "Retropie4",
+      "description": "Retropie v4.6 gaming distro using Emulation Station for RPi4"
+    },
+    {
+      "name": "Retropie4 - dsi",
+      "description": "Retropie v4.6 for RPi4 for DSI that switches to HDMI"
+    }
+  ]
+}
