@@ -1,0 +1,23 @@
+{
+    "partitions":   [
+        {
+            "label": "",
+            "filesystem_type":              "FAT",
+            "partition_size_nominal":       139,
+            "want_maximised":               false,
+            "uncompressed_tarball_size":    39,
+            "mkfs_options": "-F 32",
+            "tarball":                      "boot_arch.tar.xz",
+            "sha512sum":                    "c7062e4b53c4bca45ed5eb19d326ea0c617eac8e5d2a100b004dd133858eaee77efb9e72747709451f8b61115a30e81a80037c017234c2c678cb97ab6516c188"
+        },
+        {
+            "label": "",
+            "filesystem_type":              "ext4",
+            "partition_size_nominal":       1191,
+            "want_maximised":               true,
+            "mkfs_options":                 "-c",
+            "uncompressed_tarball_size":    1091,
+            "tarball":                      "ArchLinuxARM-rpi-4-latest.tar.gz"
+        }
+    ]
+}
