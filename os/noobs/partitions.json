@@ -1,0 +1,28 @@
+{
+    "partitions": [
+        {
+            "filesystem_type": "fat",
+            "label": "RECALBOX",
+            "mkfs_options": "-F 32",
+            "partition_size_nominal": 3072,
+            "tarball": "https://upgrade.recalbox.com/latest/noobs/rpi4/recalbox-rpi4.tar.xz",
+            "uncompressed_tarball_size": 1199,
+            "want_maximised": false
+        },
+        {
+            "empty_fs": true,
+            "filesystem_type": "unformatted",
+            "label": "SHARE",
+            "partition_size_nominal": 15892,
+            "partition_type": "07",
+            "want_maximised": true
+        },
+        {
+            "empty_fs": true,
+            "filesystem_type": "ext4",
+            "label": "OVERLAY",
+            "partition_size_nominal": 1024,
+            "want_maximised": false
+        }
+    ]
+}
