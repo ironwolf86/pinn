@@ -1,6 +1,20 @@
 {
-  "version": "8.0-Electron",
-  "release_date": "2021-12-03",
-  "name": "Recalbox",
-  "description": "The retro-gaming OS! Supporting 100+ gaming systems!"
+ "description" : "A port of 32-bit Kali Linux for Pi 2 through 4 with desktop and recommended applications",
+ "kernel" : "4.19.118-Re4son",
+ "download_size" : 7363302400,
+ "name" : "Kali_Linux_Full_(32-bit)",
+ "password" : "kali",
+ "release_date" : "2020-12-17",
+ "supported_hex_revisions" : "40,41,42,82,83,d3,e0,3111,3112,3114,3130",
+ "supports_backup": true,
+ "supports_usb_boot":       false,
+ "supported_models" : [
+"Pi 2",
+"Pi 3",
+"Pi 4",
+"Pi 400"
+ ],
+ "url" : "https://www.kali.org/",
+ "username" : "kali",
+ "version" : "2020.4"
 }
