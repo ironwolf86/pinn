@@ -13,7 +13,7 @@
             "filesystem_type": "ext4",
             "label": "writable",
             "mkfs_options": "-O ^huge_file",
-            "partition_size_nominal": 19739,
+            "partition_size_nominal": 31739,
             "requires_label": true,
             "sha512sum": "3760707139b3be3d0cc3621aef9296afbe37aaaf1462a8cc8d77d376f9a6004cfb67bcf0b64937734b61d556a404cf093de6d76514ee8192267f7fb94f1adbc8",
             "uncompressed_tarball_size": 5296,
