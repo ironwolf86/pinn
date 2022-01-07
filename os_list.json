@@ -185,7 +185,7 @@
             "os_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie4/os.json",
             "os_name": "Retropie4",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie4/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=retropie4&s=32000",
+            "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/Retropie4/partitions.json",
             "release_date": "2020-11-04",
             "supported_hex_revisions": "1040,1041,2082",
             "supported_models": [
@@ -207,7 +207,7 @@
             "os_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/os.json",
             "os_name": "Lakka_RPi4",
             "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=lakka_rpi4&s=20000",
+            "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/Lakka_RPi4/partitions.json",
             "release_date": "2021-11-13",
             "supported_models": [
                 "Pi 4"
@@ -230,7 +230,7 @@
             "os_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/os.json",
             "os_name": "Raspberry Pi OS Lite (32-bit)",
             "partition_setup": "http://downloads.raspberrypi.org/raspios_lite_armhf/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=raspberrypioslite32-bit&s=20000",
+            "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/raspios_lite_armhf/partitions.json",
             "release_date": "2021-10-30",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
             "supported_models": [
@@ -257,7 +257,7 @@
             "os_info": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/os.json",
             "os_name": "raspios_oldstable_lite",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=raspios_oldstable_lite&s=32000",
+            "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/raspios_oldstable_lite/partitions.json",
             "release_date": "2021-12-02",
             "supported_models": [
                 "Pi Model",
@@ -284,7 +284,7 @@
             "os_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/os.json",
             "os_name": "DietPi",
             "partition_setup": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=dietpi&s=20000",
+            "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/DietPi/partitions.json",
             "password": "dietpi",
             "release_date": "2021-08-20",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082,20d3,20e0,3111",
@@ -317,7 +317,7 @@
             "os_info": "http://downloads.sourceforge.net/project/pinn/os/Arch4/os.json",
             "os_name": "Arch4",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Arch4/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=arch4&s=20000",
+            "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/Arch4/partitions.json",
             "release_date": "2020-03-03",
             "supported_models": [
                 "Pi 4"
@@ -337,7 +337,7 @@
             "os_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/os.json",
             "os_name": "LibreELEC_RPi4",
             "partition_setup": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/partition_setup.sh",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=libreelec_rpi4&s=32000",
+            "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/LibreELEC_RPi4/partitions.json",
             "release_date": "2021-08-11",
             "supported_hex_revisions": "",
             "supported_models": [
@@ -355,7 +355,7 @@
             "nominal_size": 582609,
             "os_info": "http://downloads.raspberrypi.org/data_partition/os.json",
             "os_name": "Data Partition",
-            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=datapartition&s=582609",
+            "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/data_partition/partitions.json",
             "tarballs": [
                 "http://downloads.raspberrypi.org/data_partition/data.tar.xz"
             ]
