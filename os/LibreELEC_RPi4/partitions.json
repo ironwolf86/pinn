@@ -12,7 +12,7 @@
             "filesystem_type": "ext4",
             "label": "Storage",
             "mkfs_options": "",
-            "partition_size_nominal": 19480,
+            "partition_size_nominal": 31480,
             "uncompressed_tarball_size": 10,
             "want_maximised": true
         }
