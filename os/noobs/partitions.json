@@ -5,8 +5,7 @@
             "label": "RECALBOX",
             "mkfs_options": "-F 32",
             "partition_size_nominal": 3072,
-            "tarball": "https://upgrade.recalbox.com/latest/noobs/rpi4/recalbox-rpi4.tar.xz",
-            "uncompressed_tarball_size": 1199,
+            "uncompressed_tarball_size": 863,
             "want_maximised": false
         },
         {
