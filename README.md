@@ -1,2 +1,2 @@
 # pinn
-config files for setting up pinn-lite
+PERSONAL config files for setting up pinn-lite
