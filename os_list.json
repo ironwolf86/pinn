@@ -28,11 +28,11 @@
             "download_size": 1993287180,
             "group": "General",
             "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/kali20.04-32/Kali_Linux_Full_(32-bit).png",
-            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/kali20.04-32/marketing.tar",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/kali20.04-32/marketing.tar",
             "nominal_size": 20000,
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/kali20.04-32/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/kali20.04-32/os.json",
             "os_name": "Kali_Linux_Full_(32-bit)",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/kali20.04-32/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/kali20.04-32/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/kali20.04-32/partitions.json",
             "release_date": "2020-12-17",
             "supported_models": [
@@ -44,8 +44,8 @@
             "supports_backup": true,
             "supports_usb_boot": true,
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os/kali20.04-32/Kali32boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/kali20.04-32/Kali32root.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/kali20.04-32/Kali32boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/kali20.04-32/Kali32root.tar.xz"
             ],
             "url": "https://www.kali.org/"
         },
@@ -53,12 +53,12 @@
             "description": "A themed Raspberry Pi OS Desktop merged with gaming v2.1.2",
             "download_size": 2216570420,
             "group": "General",
-            "icon": "http://downloads.sourceforge.net/project/pinn/os/twister/twister.png",
-            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/twister/marketing.tar",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/twister/twister.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/twister/marketing.tar",
             "nominal_size": 20000,
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/twister/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/twister/os.json",
             "os_name": "twister",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/twister/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/twister/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/twister/partitions.json",
             "release_date": "2021-06-22",
             "supported_models": [
@@ -68,8 +68,8 @@
                 "Pi 4"
             ],
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os/twister/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/twister/twister.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/twister/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/twister/twister.tar.xz"
             ],
             "url": "https://twisteros.com/"
         },
@@ -77,20 +77,20 @@
             "description": "ubuntu2010 v20.10 desktop for RPi4",
             "download_size": 1348820088,
             "group": "General",
-            "icon": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/ubuntu2010.png",
-            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/marketing.tar",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/ubuntu2010/ubuntu2010.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/ubuntu2010/marketing.tar",
             "nominal_size": 32000,
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/ubuntu2010/os.json",
             "os_name": "ubuntu2010",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/ubuntu2010/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/ubuntu2010/partitions.json",
             "release_date": "2020-10-15",
             "supported_models": [
                 "Pi 4"
             ],
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/system-boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/ubuntu2010/writable.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/ubuntu2010/system-boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/ubuntu2010/writable.tar.xz"
             ],
             "url": "https://ubuntu/"
         },
@@ -98,12 +98,12 @@
             "description": "(USE THIS ONE!) The retro-gaming OS, supporting 100+ gaming systems!",
             "download_size": 753328276,
             "group": "Games",
-            "icon": "https://downloads.sourceforge.net/project/pinn/os/recalbox-rpi4/recalbox-rpi4.png",
-            "marketing_info": "https://downloads.sourceforge.net/project/pinn/os/recalbox-rpi4/marketing.tar",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/recalbox-rpi4/recalbox-rpi4.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/recalbox-rpi4/marketing.tar",
             "nominal_size": 20000,
-            "os_info": "https://downloads.sourceforge.net/project/pinn/os/recalbox-rpi4/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/recalbox-rpi4/os.json",
             "os_name": "recalbox-rpi4",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/recalbox-rpi4/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/recalbox-rpi4/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/noobs/partitions.json",
             "release_date": "2020-11-29",
             "supported_models": [
@@ -111,7 +111,7 @@
             ],
             "supports_backup": true,
             "tarballs": [
-                "https://downloads.sourceforge.net/project/pinn/os/recalbox-rpi4/RECALBOX.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/recalbox-rpi4/RECALBOX.tar.xz",
                 "",
                 ""
             ],
@@ -121,12 +121,12 @@
             "description": "A port of Debian with the Raspberry Pi Desktop",
             "download_size": 801462256,
             "feature_level": 35120124,
-            "icon": "http://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
-            "marketing_info": "http://downloads.raspberrypi.org/raspios_armhf/marketing.tar",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_armhf/marketing.tar",
             "nominal_size": 32000,
-            "os_info": "http://downloads.raspberrypi.org/raspios_armhf/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_armhf/os.json",
             "os_name": "Raspberry Pi OS (32-bit)",
-            "partition_setup": "http://downloads.raspberrypi.org/raspios_armhf/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_armhf/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/raspios_armhf/partitions.json",
             "release_date": "2021-10-30",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
@@ -139,8 +139,8 @@
                 "Pi 4"
             ],
             "tarballs": [
-                "http://downloads.raspberrypi.org/raspios_armhf/boot.tar.xz",
-                "http://downloads.raspberrypi.org/raspios_armhf/root.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_armhf/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_armhf/root.tar.xz"
             ],
             "version": "bullseye"
         },
@@ -148,12 +148,12 @@
             "description": "A port of Debian Buster stable with the Raspberry Pi Desktop",
             "download_size": 785260704,
             "group": "Legacy",
-            "icon": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/raspios_oldstable.png",
-            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/marketing.tar",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_oldstable/raspios_oldstable.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_oldstable/marketing.tar",
             "nominal_size": 20000,
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_oldstable/os.json",
             "os_name": "raspios_oldstable",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_oldstable/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/raspios_oldstable/partitions.json",
             "release_date": "2021-12-02",
             "supported_models": [
@@ -165,8 +165,8 @@
                 "Pi 4"
             ],
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable/root.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_oldstable/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_oldstable/root.tar.xz"
             ],
             "url": "http://www.raspbian.org/",
             "version": "buster"
@@ -175,12 +175,12 @@
             "description": "batocera.linux, the open source retro gaming console",
             "download_size": 845268244,
             "group": "Games",
-            "icon": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/batocera_RPi4/batocera_RPi4.png",
-            "marketing_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/batocera_RPi4/marketing.tar",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/batocera_RPi4/batocera_RPi4.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/batocera_RPi4/marketing.tar",
             "nominal_size": 20000,
-            "os_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/batocera_RPi4/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/batocera_RPi4/os.json",
             "os_name": "batocera_RPi4",
-            "partition_setup": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/batocera_RPi4/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/batocera_RPi4/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/batocera_RPi4/partitions.json",
             "password": "linux",
             "release_date": "2021-03-06",
@@ -191,7 +191,7 @@
             ],
             "supports_backup": true,
             "tarballs": [
-                "https://updates.batocera.org/rpi464/stable/last/boot.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/batocera_RPi4/boot.tar.xz"
             ],
             "url": "https://batocera.org",
             "username": "root",
@@ -202,12 +202,12 @@
             "download_size": 539674500,
             "feature_level": 0,
             "group": "Games",
-            "icon": "http://downloads.sourceforge.net/project/pinn/os/Retropie4/Retropie4.png",
-            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie4/marketing.tar",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/Retropie4/Retropie4.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/Retropie4/marketing.tar",
             "nominal_size": 32000,
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/Retropie4/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/Retropie4/os.json",
             "os_name": "Retropie4",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/Retropie4/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/Retropie4/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/Retropie4/partitions.json",
             "release_date": "2020-11-04",
             "supported_hex_revisions": "1040,1041,2082",
@@ -215,8 +215,8 @@
                 "Pi 4"
             ],
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os/Retropie4/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/Retropie4/retropie.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/Retropie4/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/Retropie4/retropie.tar.xz"
             ],
             "url": "https://retropie.org.uk/"
         },
@@ -224,12 +224,12 @@
             "description": "The DIY retro emulation console",
             "download_size": 438440324,
             "group": "Games",
-            "icon": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/Lakka_RPi4.png",
-            "marketing_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/marketing.tar",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/Lakka_RPi4/Lakka_RPi4.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/Lakka_RPi4/marketing.tar",
             "nominal_size": 20000,
-            "os_info": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/Lakka_RPi4/os.json",
             "os_name": "Lakka_RPi4",
-            "partition_setup": "https://le.builds.lakka.tv/noobs/Lakka_RPi4/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/Lakka_RPi4/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/Lakka_RPi4/partitions.json",
             "release_date": "2021-11-13",
             "supported_models": [
@@ -237,8 +237,8 @@
             ],
             "supports_backup": true,
             "tarballs": [
-                "https://le.builds.lakka.tv/noobs/Lakka_RPi4/System.tar.xz",
-                "https://le.builds.lakka.tv/noobs/Lakka_RPi4/Storage.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/Lakka_RPi4/System.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/Lakka_RPi4/Storage.tar.xz"
             ],
             "url": "https://www.lakka.tv/",
             "version": "3.6"
@@ -247,12 +247,12 @@
             "description": "A port of Debian with no desktop environment",
             "download_size": 258296084,
             "feature_level": 35120124,
-            "icon": "http://downloads.raspberrypi.org/raspios_lite_armhf/Raspberry_Pi_OS_Lite_(32-bit).png",
-            "marketing_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/marketing.tar",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_lite_armhf/Raspberry_Pi_OS_Lite_(32-bit).png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_lite_armhf/marketing.tar",
             "nominal_size": 20000,
-            "os_info": "http://downloads.raspberrypi.org/raspios_lite_armhf/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_lite_armhf/os.json",
             "os_name": "Raspberry Pi OS Lite (32-bit)",
-            "partition_setup": "http://downloads.raspberrypi.org/raspios_lite_armhf/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_lite_armhf/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/raspios_lite_armhf/partitions.json",
             "release_date": "2021-10-30",
             "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041,0092,0093,2082",
@@ -265,8 +265,8 @@
                 "Pi 4"
             ],
             "tarballs": [
-                "http://downloads.raspberrypi.org/raspios_lite_armhf/boot.tar.xz",
-                "http://downloads.raspberrypi.org/raspios_lite_armhf/root.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_lite_armhf/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_lite_armhf/root.tar.xz"
             ],
             "version": "bullseye"
         },
@@ -274,12 +274,12 @@
             "description": "A port of Debian Buster oldstable with no desktop environment",
             "download_size": 288993220,
             "group": "Legacy",
-            "icon": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/raspios_oldstable_lite.png",
-            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/marketing.tar",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_oldstable_lite/raspios_oldstable_lite.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_oldstable_lite/marketing.tar",
             "nominal_size": 32000,
-            "os_info": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_oldstable_lite/os.json",
             "os_name": "raspios_oldstable_lite",
-            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_oldstable_lite/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/raspios_oldstable_lite/partitions.json",
             "release_date": "2021-12-02",
             "supported_models": [
@@ -291,8 +291,8 @@
                 "Pi 4"
             ],
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/raspios_oldstable_lite/root.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_oldstable_lite/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/raspios_oldstable_lite/root.tar.xz"
             ],
             "url": "http://www.raspbian.org/",
             "version": "buster"
@@ -301,12 +301,12 @@
             "description": "Highly optimized minimal Debian OS (ARMv6 32-bit Bullseye)",
             "download_size": 173926860,
             "group": "Minimal",
-            "icon": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/DietPi.png",
-            "marketing_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/marketing.tar",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/DietPi/DietPi.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/DietPi/marketing.tar",
             "nominal_size": 20000,
-            "os_info": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/DietPi/os.json",
             "os_name": "DietPi",
-            "partition_setup": "http://raw.githubusercontent.com/matthuisman/pinn-os/master/DietPi/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/DietPi/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/DietPi/partitions.json",
             "password": "dietpi",
             "release_date": "2021-08-20",
@@ -322,8 +322,8 @@
             ],
             "supports_backup": true,
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn-matthuisman/os/DietPi/boot.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn-matthuisman/os/DietPi/root.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/DietPi/boot.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/DietPi/root.tar.xz"
             ],
             "url": "http://dietpi.com/",
             "username": "root",
@@ -331,12 +331,12 @@
         },
         {
             "description": "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
-            "icon": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/LibreELEC_RPi4.png",
-            "marketing_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/marketing.tar",
+            "icon": "hhttp://downloads.sourceforge.net/project/pinn-ironmine86/os/LibreELEC_RPi4/LibreELEC_RPi4.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/LibreELEC_RPi4/marketing.tar",
             "nominal_size": 32000,
-            "os_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/LibreELEC_RPi4/os.json",
             "os_name": "LibreELEC_RPi4",
-            "partition_setup": "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/partition_setup.sh",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/LibreELEC_RPi4/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/LibreELEC_RPi4/partitions.json",
             "release_date": "2021-08-11",
             "supported_hex_revisions": "",
@@ -344,20 +344,20 @@
                 "Pi 4"
             ],
             "tarballs": [
-                "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/System.tar.xz",
-                "http://releases.libreelec.tv/noobs/LibreELEC_RPi4/Storage.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/LibreELEC_RPi4/System.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/LibreELEC_RPi4/Storage.tar.xz"
             ],
             "version": "10.0.0"
         },
         {
             "description": "Adds an empty 512MB ext4 format partition to the partition layout.",
-            "icon": "http://downloads.raspberrypi.org/data_partition/Data_Partition.png",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/data_partition/Data_Partition.png",
             "nominal_size": 582609,
-            "os_info": "http://downloads.raspberrypi.org/data_partition/os.json",
+            "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/data_partition/os.json",
             "os_name": "Data Partition",
             "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/data_partition/partitions.json",
             "tarballs": [
-                "http://downloads.raspberrypi.org/data_partition/data.tar.xz"
+                "http://downloads.sourceforge.net/project/pinn-ironmine86/os/data_partition/data.tar.xz"
             ]
         }
     ]
