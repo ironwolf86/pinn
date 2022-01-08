@@ -2,7 +2,7 @@
     "os_list": [
         {
             "description": "An Arch Linux port for ARM devices RPi3",
-            "download_size": 588058214,
+            "download_size": 467365718,
             "feature_level": 0,
             "group": "Minimal",
             "icon": "http://downloads.sourceforge.net/project/pinn/os/Arch4/Arch4.png",
