@@ -17,7 +17,7 @@
             "partition_setup":  "http://downloads.sourceforge.net/project/pinn/os/Arch4/partition_setup.sh",
             "tarballs": [
                                 "http://downloads.sourceforge.net/project/pinn/os/Arch4/boot_arch.tar.xz",
-                                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-4-latest.tar.gz"
+                                "http://archlinuxarm.org/os/ArchLinuxARM-rpi-latest.tar.gz"
             ],
             "nominal_size": 1332
         }
