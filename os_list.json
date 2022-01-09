@@ -331,7 +331,7 @@
         },
         {
             "description": "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
-            "icon": "hhttp://downloads.sourceforge.net/project/pinn-ironmine86/os/LibreELEC_RPi4/LibreELEC_RPi4.png",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/LibreELEC_RPi4/LibreELEC_RPi4.png",
             "marketing_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/LibreELEC_RPi4/marketing.tar",
             "nominal_size": 32000,
             "os_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/LibreELEC_RPi4/os.json",
@@ -351,7 +351,7 @@
         },
         {
             "description": "Adds an empty 512MB ext4 format partition to the partition layout.",
-            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/data_partition/Data_Partition.png",
+            "icon": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/data_partition/data_partition.png",
             "nominal_size": 582609,
             "os_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/data_partition/os.json",
             "os_name": "Data Partition",
