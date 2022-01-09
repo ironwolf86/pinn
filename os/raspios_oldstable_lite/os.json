@@ -10,7 +10,6 @@
         "Pi Compute Module 3",
         "Pi 4"
     ],
-    "sha512sum" : "3367a6aeeab3998e2ec393e4538b0a8078179672bfd58ea62dfd28bc351d8b9ad0b1c9ed09ca24e987d33d7a10afd0eba77a86f67c64a17baa9e4a0455463cf5",
     "version": "buster",
     "kernel": "5.10.63",
     "supports_backup": true,
