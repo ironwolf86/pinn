@@ -12,6 +12,5 @@
     "url":                      "http://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-4",
     "group":                    "Minimal",
     "username":                 "root",
-    "password":                 "root",
-    "sha512sum":                "aee10c56fa21e08c9fd80ae31c80448aa6f422f54e65ba6a1914724cb5370a9fed4ab731bd3bf8e896d749a9cfbf0548c5ced0952eb9233896ef660885cab57a"
+    "password":                 "root"
 }
