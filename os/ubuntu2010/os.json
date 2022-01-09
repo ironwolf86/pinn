@@ -12,6 +12,5 @@
     "url":                      "URL",
     "group":                    "General",
     "username":                 "ubuntu",
-    "password":                 "ubuntu",
-    "sha512sum":                "67029adc701570436926f9970e1e495c7b7b805954c90ef86a68d0ca514520a4f50d5874565687b5f1e2117e5e474644efcabb422861ed5a407ba91c7b3a3b45"
+    "password":                 "ubuntu"
 }
