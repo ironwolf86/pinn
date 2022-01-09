@@ -5,7 +5,6 @@
             "label": "system-boot",
             "partition_size_nominal": 253,
             "requires_label": true,
-            "sha512sum": "0d3e55706c27a1b0b2eb650a717067126c07615314185f659e5646cdc07aa436f43ff765a2d29eec4d963c56d18eef6ef2933a7866d33ee6f7cefd3168027ee1",
             "uncompressed_tarball_size": 68,
             "want_maximised": false
         },
@@ -15,7 +14,6 @@
             "mkfs_options": "-O ^huge_file",
             "partition_size_nominal": 31739,
             "requires_label": true,
-            "sha512sum": "3760707139b3be3d0cc3621aef9296afbe37aaaf1462a8cc8d77d376f9a6004cfb67bcf0b64937734b61d556a404cf093de6d76514ee8192267f7fb94f1adbc8",
             "uncompressed_tarball_size": 5296,
             "want_maximised": true
         }
