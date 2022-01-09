@@ -5,7 +5,6 @@
             "label": "",
             "mkfs_options": "-F 32",
             "partition_size_nominal": 139,
-            "sha512sum": "c7062e4b53c4bca45ed5eb19d326ea0c617eac8e5d2a100b004dd133858eaee77efb9e72747709451f8b61115a30e81a80037c017234c2c678cb97ab6516c188",
             "tarball": "boot_arch.tar.xz",
             "uncompressed_tarball_size": 39,
             "want_maximised": false
