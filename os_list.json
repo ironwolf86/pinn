@@ -104,7 +104,7 @@
             "os_info": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/recalbox-rpi4/os.json",
             "os_name": "recalbox-rpi4",
             "partition_setup": "http://downloads.sourceforge.net/project/pinn-ironmine86/os/recalbox-rpi4/partition_setup.sh",
-            "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/noobs/partitions.json",
+            "partitions_info": "http://raw.githubusercontent.com/ironwolf86/pinn/main/os/recalbox-rpi4/partitions.json",
             "release_date": "2020-11-29",
             "supported_models": [
                 "Pi 4"
