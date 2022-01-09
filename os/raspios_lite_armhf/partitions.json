@@ -5,7 +5,6 @@
             "label": "boot",
             "mkfs_options": "-F 32",
             "partition_size_nominal": 256,
-            "sha256sum": "319ab0099aa05b415efd26b67407587e35fb8d9b794a822099a170d42b10d7e3",
             "uncompressed_tarball_size": 49,
             "want_maximised": false
         },
@@ -14,7 +13,6 @@
             "label": "root",
             "mkfs_options": "-O ^huge_file",
             "partition_size_nominal": 19736,
-            "sha256sum": "e8080f06fca63d4081d6fd6bb47662bdbc99c5d4a1b19c28e3e215551c14f66f",
             "uncompressed_tarball_size": 1089,
             "want_maximised": true
         }
